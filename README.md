@@ -28,7 +28,7 @@ desktop-design-screenshot.png
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://incomparable-dango-bbb39e.netlify.app/)
 
 ## My process
 
@@ -41,7 +41,7 @@ desktop-design-screenshot.png
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+I learned to really do the correct HTML syntax
 
 To see how you can add code snippets, see below:
 
@@ -71,5 +71,5 @@ I want to learn more about CSS Grid, animations and javascript.
 ## Author
 
 - Website - [Liz](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Coder-Liz)
 ```
